@@ -6,7 +6,6 @@ kiwisolver==1.3.2
 matplotlib==3.4.3
 numpy==1.21.2
 packaging==21.0
--e git+https://github.com/savitakartik/inflammation.git@3e3bd2886076a4091f974146bc9a7b98b500ab82#egg=patient_analysis
 Pillow==8.4.0
 pluggy==1.0.0
 py==1.10.0
